@@ -45,7 +45,7 @@ a:focus {outline:none;}
 ========================================= */
 
 body{
-	background: url(images/bg.png);
+	background: url(bg.png);
 	border-top: 5px solid #345c39;
 	font-family: "メイリオ" Meiryo;
 }
@@ -73,7 +73,7 @@ header{
 header h1{
 	font-size: 12px;
 	color: #555;
-	background: url(images/logo.png)no-repeat;
+	background: url(logo.png)no-repeat;
 	padding-left: 51px;
 	line-height: 1;
 	height: 49px;
@@ -103,7 +103,7 @@ header nav ul li {
 
 
 header nav ul li:hover {
-	background :url(images/navbar.png) no-repeat center bottom;
+	background :url(navbar.png) no-repeat center bottom;
 	height: 36px;
 	display: inline-block;
 }
@@ -225,12 +225,12 @@ div#right ul li a{
 
 
 div#right ul li a#contact{
-	background: url(images/contact.jpg);
+	background: url(contact.jpg);
 }
 
 
 div#right ul li a#blog{
-	background: url(images/blog.jpg);
+	background: url(blog.jpg);
 }
 
 
@@ -262,7 +262,7 @@ footer{
 
 
 h2#heading {
-	background: url(images/title.jpg);
+	background: url(title.jpg);
 	width: 925px;
 	height: 70px;
 	border: 5px solid #fff;
